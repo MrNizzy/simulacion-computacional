@@ -17,7 +17,7 @@ const juego = new juegoDeLaMoneda();
 // console.log(`Tu dinero: $${juego.multiplesJuegos(100)}`);
 
 //? Jugar varias veces con límite:
-console.log(`Tu dinero: $${juego.multiplesJuegosConLimite(81)}`);
+console.log(`Tu dinero: $${juego.multiplesJuegosConLimite(100)}`);
 
 // TODO: No conviene jugar en límite infinito, porque tiene una tendencia a salir más de 8 lanzamientos y perder todo el dinero; además, también quedará en deuda.
 // TODO: Por el contrario, jugar con un límite de 15, no asegura ganar del todo, pero es más beneficioso que jugar sin límite.

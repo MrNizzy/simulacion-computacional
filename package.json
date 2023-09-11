@@ -6,8 +6,9 @@
   "scripts": {
     "taller:1:1": "ts-node taller-1/1-ejercicio.ts",
     "taller:1:2": "ts-node taller-1/2-ejercicio.ts",
+    "taller:1:3": "python taller-1/3-ejercicio.py",
     "taller:1:4": "ts-node taller-1/4-ejercicio.ts",
-    "taller:1:4C": "ts-node taller-1/clases/estadio.ts",
+    "taller:1:5": "ts-node taller-1/5-ejercicio.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
